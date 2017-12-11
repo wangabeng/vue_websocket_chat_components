@@ -15,11 +15,12 @@ export default {
 </script>
 
 <style lang='stylus' rel='stylesheet/stylus'>
+@import '~common/stylus/variable.styl'
 .chat
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #f1f1f1;
+  background-color: $color-background;
 </style>
