@@ -14,12 +14,12 @@ export default {
 }
 </script>
 
-<style type='stylus' rel='stylesheet/stylus'>
+<style lang='stylus' rel='stylesheet/stylus'>
 .chat
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: gray;
+  background-color: #f1f1f1;
 </style>
